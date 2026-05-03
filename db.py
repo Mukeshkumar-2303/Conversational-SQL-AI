@@ -46,6 +46,7 @@ if not db_uri:
 
 if not api_key:
     st.info("Please enter the api key")
+    st.stop()
 
 # LLM MODEL
 model = ChatGroq(
