@@ -50,7 +50,7 @@ if not api_key:
 # LLM MODEL
 model = ChatGroq(
     groq_api_key=api_key,
-    model="llama-3.1-8b-instant",
+    model="llama-3.3-70b-versatile",
     streaming=True
 )
 
