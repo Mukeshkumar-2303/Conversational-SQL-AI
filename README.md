@@ -25,7 +25,7 @@ The application uses LangChain SQL Agents with Groq LLMs for fast SQL reasoning 
 ## Features
 AI-Powered SQL Querying
 
-- The AI automatically converts these prompts into SQL queries.
+-The AI automatically converts these prompts into SQL queries.
 
 -Multiple Database Support
 
