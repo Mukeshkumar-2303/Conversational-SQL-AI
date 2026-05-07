@@ -5,9 +5,10 @@ An AI-powered SQL chatbot built with Streamlit, LangChain, and Groq LLMs that al
 This project converts plain English questions into SQL queries and retrieves results directly from SQLite or MySQL databases.
 
 
-## Only safe read operations are allowed.
 
 ![Screenshot](screenshot1.png)
+
+
 
 ## Conversational SQL AI Assistant enables users to:
 
@@ -40,6 +41,9 @@ AI-Powered SQL Querying
 -Uses a local SQLite database (student.db) for testing and demonstrations.
 
 -MySQL Support
+
+
+## Only safe read operations are allowed.
 
 -Users can connect their own MySQL databases by providing:
 
@@ -78,3 +82,5 @@ Restricted operations:
 -ALTER
 
 -TRUNCATE
+
+[Live Demo](https://conversational-sql-ai-58dwjgztcdybypqz7wyuhm.streamlit.app/)
