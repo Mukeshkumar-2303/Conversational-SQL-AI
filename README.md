@@ -7,6 +7,7 @@ This project converts plain English questions into SQL queries and retrieves res
 
 ## Only safe read operations are allowed.
 
+![Screenshot](screenshot1.png)
 
 ## Conversational SQL AI Assistant enables users to:
 
@@ -23,6 +24,9 @@ This project converts plain English questions into SQL queries and retrieves res
 -Interact through a modern chat-based UI
 
 The application uses LangChain SQL Agents with Groq LLMs for fast SQL reasoning and execution.
+
+
+![Screenshot](screenshot2.png)
 
 ## Features
 AI-Powered SQL Querying
