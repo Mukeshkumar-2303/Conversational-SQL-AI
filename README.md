@@ -61,6 +61,10 @@ Secure SQL Execution
 
 Dangerous SQL operations are blocked automatically.
 
+
+![Screenshot](screenshot2.png)
+
+
 Restricted operations:
 
 -DELETE
